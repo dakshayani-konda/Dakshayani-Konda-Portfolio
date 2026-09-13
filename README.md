@@ -53,8 +53,8 @@ A responsive personal portfolio website built using **HTML, CSS, and JavaScript*
 ## 📫 Contact
 
 - 📧 Email: dakshayanikonda@gmail.com  
-- 💻 GitHub: https://github.com/dakshayani1705  
-- 💼 LinkedIn: www.linkedin.com/in/dakshayanikonda1711  
+- 💻 GitHub: https://github.com/dakshayani-konda
+- 💼 LinkedIn: www.linkedin.com/in/dakshayanikonda 
 
 ---
 
